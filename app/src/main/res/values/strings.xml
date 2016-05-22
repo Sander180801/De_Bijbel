@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">De Bijbel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_choice_list">" The ChoiceList"</string>
+    <string name="title_activity_choice_list">ChoiceListActivity</string>
+    <string name="de_leuke_bijbelverhalen">De Leukste Bijbelverhalen</string>
+    <string name="kies_verhaal">Kies Je Verhaal</string>
+    <string name="mooiste_van_de_bijbel">Het mooiste van de bijbel in 1 app!</string>
+    <string name="opties">Opties</string>
+    <string name="kies_hier_verhaal">Kies Hier Je Verhaal</string>
+    <string name="creation">De Schepping</string>
+    <string name="come_of_sin">De Zondeval</string>
+    <string name="the_ark">De Ark van Noach</string>
+    <string name="jacob_and_esau">Jacob en Esau</string>
+    <string name="david_and_goliath">David Verslaat Goliath</string>
+    <string name="christmas_story">Het Kerstverhaal</string>
+    <string name="jesus_on_the_mountain">De Bergrede</string>
+
+</resources>

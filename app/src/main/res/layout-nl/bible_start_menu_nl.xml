@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textSize="40sp"
+        android:textColor="#CC0000"
+        android:id="@+id/de_bijbel"
+        android:text="@string/de_leuke_bijbelverhalen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textColor="#0099CC"
+        android:textSize="20sp"
+        android:text="@string/mooiste_van_de_bijbel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/kies_verhaal"
+        android:background="#FFBB33"
+        android:textColor="#CC0000"
+       android:onClick="ToChoiceList"
+        android:layout_marginTop="120dp"
+        android:text="@string/kies_verhaal"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/kies_verhaal"/>
+    <Button
+        android:background="#FFBB33"
+        android:onClick="ToOptionsList"
+        android:textColor="#CC0000"
+        android:text="@string/opties"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>

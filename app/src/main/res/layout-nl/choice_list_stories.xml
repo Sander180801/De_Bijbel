@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#669900">
+    <TextView
+        android:textColor="#CC0000"
+        android:textSize="40sp"
+        android:text="@string/kies_hier_verhaal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="@string/creation"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp"
+        android:background="#FFBB33"/>
+    <Button
+        android:text="@string/come_of_sin"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp"
+        android:background="#FFBB33"/>
+    <Button
+        android:text="@string/jacob_and_esau"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp" />
+    <Button
+        android:text="@string/the_ark"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp"/>
+    <Button
+        android:text="@string/david_and_goliath"
+        android:textSize="12sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp" />
+    <Button
+        android:text="@string/jesus_on_the_mountain"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp" />
+    <Button
+        android:text="@string/christmas_story"
+        android:textSize="13sp"
+        android:textColor="#CC0000"
+        android:layout_width="140sp"
+        android:layout_height="60sp" />
+</LinearLayout>
